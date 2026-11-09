@@ -1,0 +1,6 @@
+data/
+__pycache__/
+*.egg-info/
+build/
+*.so
+.pytest_cache/
